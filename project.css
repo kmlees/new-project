@@ -103,3 +103,21 @@ h1 {
 	margin: 5px;
 	border-radius: 5px;
 }
+#share-buttons {
+	text-align: center;
+	background-color: rgb(140, 0, 26);
+	padding:85px 0 80px 0;
+}
+#contact-details {
+	background-color: rgb(85, 107, 47);
+	color:rgb(140, 0, 26);
+}
+#other-info {
+	background-color: rgb(85, 107, 47);
+	padding-bottom: 80px;
+	color:rgb(140, 0, 26);
+}
+#other-info a {
+	color: rgb(140, 0, 26);
+	font-size: 20px;
+}
